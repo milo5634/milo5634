@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working for me
 - 🌱 I’m currently learning with Web force 3 until june
 - 👯 I’m looking for an internship/job
