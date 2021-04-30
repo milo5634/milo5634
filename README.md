@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**milo5634/milo5634** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: milo.dev.web@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I travel on all continent, 55 country. Soon it will be possible to go in space, Thanks Mister Musk, so please give me a job for make some money.
--->
+
